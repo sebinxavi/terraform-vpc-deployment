@@ -10,7 +10,7 @@ This Terraform module will helps to create an Amazon Web Services (AWS) Virtual 
 - Reduced development costs
 - Reduced time to provision
 
-## Prerequisites
+## _Prerequisites_
 - Terraform version - 0.15.3
 - Linux operating System
 -  Access keys to sign programmatic requests to the AWS CLI and the required permissions for VPC creation
@@ -35,7 +35,7 @@ This module creates a VPC alongside a variety of related resources, including:
 - NAT Gateways
 - An Internet Gateway
 
-## How to configure
+## _How to configure_
 
 - Open the file terraform.tfvars and edit the variables as per your requirements
 
