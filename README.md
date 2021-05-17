@@ -15,7 +15,7 @@ This Terraform module will helps to create an Amazon Web Services (AWS) Virtual 
 - Linux operating System
 -  Access keys to sign programmatic requests to the AWS CLI and the required permissions for VPC creation
 
-# _Terraform Installation_
+## _Terraform Installation_
 
 ```sh
 $ wget https://releases.hashicorp.com/terraform/0.15.3/terraform_0.15.3_linux_amd64.zip
@@ -24,7 +24,7 @@ $ mv terraform /usr/bin/
 $ which terraform
 ```
 
-### _Usage_
+## _Usage_
 
 This module creates a VPC alongside a variety of related resources, including:
 
